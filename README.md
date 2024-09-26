@@ -1,8 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Burger Menu Bar Template
 
-## Getting Started
+This is a burger menu bar template. Build while I am practising Next.js and Tailwind CSS.
 
-First, run the development server:
+## Free to Use
+
+Feel free to use and modify this project for your own purposes.
+
+## usage
+
+Switch screen to mobile view to see the burger menu bar.
+
+## Installation and Configuration
+
+First, clone this project,
+
+```
+git clone https://github.com/chari00/responsive-burger-menu
+```
+go to your project folder using:
+
+```
+cd your cloned directory
+```
+ then, run the development server using the code bellow:
 
 ```bash
 npm run dev
